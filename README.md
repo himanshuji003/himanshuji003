@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Himansh+%F0%9F%91%8B;I+build+AI+that+writes+%26+fixes+its+own+code+%F0%9F%A4%AF;Claude+MCP+%7C+n8n+%7C+FastAPI+%7C+Docker+%7C+LangChain;Technical+Club+President+%40+ADGIPS%2C+Delhi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Himanshu+%F0%9F%91%8B;I+build+AI+that+writes+%26+fixes+its+own+code+%F0%9F%A4%AF;Claude+MCP+%7C+n8n+%7C+FastAPI+%7C+Docker+%7C+LangChain;Technical+Club+%40+ADGIPS%2C+Delhi)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ focus:
   - LLM orchestration with n8n + LangChain
   - Production-grade FastAPI & DevOps infra
 superpower: "Code that writes, tests & fixes itself 🤯"
-contact:  himanshvasisht75@gmail.com
+contact:  himanshu872668@gmail.com
 ```
 
 <br clear="right"/>
