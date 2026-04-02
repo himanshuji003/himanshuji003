@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himansh%20Vasisht&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20DevOps%20Enthusiast&descAlignY=60&descSize=17&descColor=a5c8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himanshu%20Kushwaha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20DevOps%20Enthusiast&descAlignY=60&descSize=17&descColor=a5c8ff" width="100%"/>
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name:     Himansh Vasisht
+name:     Himanshu Kushwaha
 role:     Backend Engineer · Agentic AI Builder
-org:      Technical Club President @ Dr. ADGIPS, GGSIPU
+org:      Dr. ADGIPS, GGSIPU
 batch:    2027 · Delhi, India
 focus:
   - Self-healing AI pipelines with Claude MCP
@@ -34,9 +34,9 @@ contact:  himanshvasisht75@gmail.com
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansh-vasisht-63075124b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshvasisht)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshvasisht75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kushwaha-a84869237/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuji003)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu872668@gmail.com)
 
 </div>
 
@@ -153,7 +153,7 @@ contact:  himanshvasisht75@gmail.com
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=himanshvasisht&icon=6&color=6)
+![Visitor Count](https://visitcount.itsvg.in/api?id=himanshuji003&icon=6&color=6)
 
 <br/>
 
