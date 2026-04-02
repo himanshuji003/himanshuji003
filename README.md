@@ -98,10 +98,11 @@ contact:  himanshu872668@gmail.com
 
 | 🔥 Project | 📝 What It Does | 🛠️ Stack |
 |:----------|:----------------|:---------|
-| 🤖 **[AI Autonomous Dev System](https://github.com/himanshvasisht)** | Self-healing pipeline — Claude MCP agents write, run, catch errors & auto-fix in a loop. Deployed on Raspberry Pi with n8n triggers | `Claude MCP` `LangChain` `n8n` `Python` `Docker` `Raspberry Pi` |
-| 💳 **[Biometric Payment System](https://github.com/himanshvasisht/bipay)** | Fintech backend with fingerprint + facial auth, real-time transaction engine, fraud hooks & WebSocket notifications | `FastAPI` `PostgreSQL` `Redis` `WebSockets` `Node.js` |
-| ⚙️ **[CI/CD Automation Pipeline](https://github.com/himanshvasisht)** | Dockerized build → test → deploy flow with auto quality gates, rollback triggers & GitHub Actions runners | `Docker` `GitHub Actions` `Bash` `Linux` `Nginx` |
-| 🔗 **[Scalable API Architecture](https://github.com/himanshvasisht)** | Production-grade modular REST APIs with Redis caching, Celery async workers, rate limiting & full Swagger docs | `FastAPI` `Django` `Redis` `Celery` `PostgreSQL` |
+| 🤖 **[AI Environmental Monitoring System](https://prena-net.netlify.app/)** | IoT-based real-time monitoring system capturing AQI, CO2, temperature & NOx using sensors; includes backend APIs, dashboard & AI assistant for insights | `Node.js` `MongoDB` `IoT` `ESP32` `AI` |
+| 💳 **[Biometric Payment System](https://github.com/himanshvasisht/bipay)** | Fintech backend enabling biometric authentication (fingerprint & face), secure transactions & scalable API handling | `Node.js` `FastAPI` `Django` `PostgreSQL` |
+| ⚙️ **[Full-Stack Business Website](https://jitendractech.me/)** | Production-ready business website with admin authentication, review approval system & real user interaction | `React` `Node.js` `Express` `MongoDB` |
+| 📊 **[DSA Visualizer](https://dsaprojectone.netlify.app/)** | Interactive platform visualizing real-time execution of algorithms to improve DSA understanding | `JavaScript` `React` |
+| 🔐 **[Authentication System](https://github.com/himanshuji003/User-login)** | Secure login system using Next.js with Prisma ORM, MySQL & password hashing | `Next.js` `Prisma` `MySQL` |
 
 ---
 
@@ -109,7 +110,9 @@ contact:  himanshu872668@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshvasisht&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=himanshuji003&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=himanshuji003&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=himanshuji003&layout=compact&theme=radical)
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuji003&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
@@ -138,9 +141,9 @@ contact:  himanshu872668@gmail.com
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshvasisht/himanshvasisht/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshvasisht/himanshvasisht/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshvasisht/himanshvasisht/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
