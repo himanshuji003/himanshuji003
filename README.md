@@ -156,7 +156,7 @@ contact:  himanshu872668@gmail.com
 
 <br/>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=himanshuji003&icon=6&color=6)
+![Visitor Count]![](https://komarev.com/ghpvc/?username=himanshuji003)
 
 <br/>
 
