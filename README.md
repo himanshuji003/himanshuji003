@@ -111,11 +111,11 @@ contact:  himanshvasisht75@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=himanshvasisht&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshvasisht&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuji003&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=himanshvasisht&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" width="520"/>
+<img src="https://streak-stats.demolab.com/?user=himanshuji003&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" width="520"/>
 
 </div>
 
@@ -128,7 +128,7 @@ contact:  himanshvasisht75@gmail.com
 🌱  Learning   →  Distributed systems design & event-driven architecture
 🤝  Open to    →  Backend / AI infra collabs & open-source contributions
 💬  Ask me     →  FastAPI · Claude MCP · n8n · Docker · Agentic AI patterns
-📫  Reach me   →  himanshvasisht75@gmail.com
+📫  Reach me   →  himanshu872668@gmail.com
 ```
 
 ---
