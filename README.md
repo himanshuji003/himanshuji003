@@ -100,7 +100,7 @@ contact:  himanshu872668@gmail.com
 |:----------|:----------------|:---------|
 | 🤖 **[AI Environmental Monitoring System](https://prena-net.netlify.app/)** | IoT-based real-time monitoring system capturing AQI, CO2, temperature & NOx using sensors; includes backend APIs, dashboard & AI assistant for insights | `Node.js` `MongoDB` `IoT` `ESP32` `AI` |
 | 💳 **[Biometric Payment System](https://github.com/himanshvasisht/bipay)** | Fintech backend enabling biometric authentication (fingerprint & face), secure transactions & scalable API handling | `Node.js` `FastAPI` `Django` `PostgreSQL` |
-| ⚙️ **[Full-Stack Business Website](https://jitendractech.me/)** | Production-ready business website with admin authentication, review approval system & real user interaction | `React` `Node.js` `Express` `MongoDB` |
+| ⚙️ **[Full-Stack Business Website]()** | Production-ready business website with admin authentication, review approval system & real user interaction | `React` `Node.js` `Express` `MongoDB` |
 | 📊 **[DSA Visualizer](https://dsaprojectone.netlify.app/)** | Interactive platform visualizing real-time execution of algorithms to improve DSA understanding | `JavaScript` `React` |
 | 🔐 **[Authentication System](https://github.com/himanshuji003/User-login)** | Secure login system using Next.js with Prisma ORM, MySQL & password hashing | `Next.js` `Prisma` `MySQL` |
 
