@@ -139,7 +139,11 @@ contact:  himanshu872668@gmail.com
 ### 🐍 Contribution Snake
 
 
-![snake gif](https://github.com/himanshuji003/himanshuji003/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/himanshuji003/himanshuji003/output/github-snake-light.svg">
+</picture>
 
 
 
